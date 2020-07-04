@@ -1,4 +1,6 @@
 /* Base */
+
+
 body {
   line-height: 1.7;
   color: gray;
@@ -23,6 +25,21 @@ a {
 
 
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   a:hover {
     text-decoration: none;
       color: #28CEFE;
