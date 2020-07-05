@@ -40,6 +40,12 @@ h1, h2, h3, h4, h5,
   font-weight: 900;
   font-size: 2em;
  }
+
+ .txt-rotate{ background-color:  #4eadfe ;
+  background-image: linear-gradient(to left,#02f0fe , #4eadfe );
+  color: white;
+  }
+
 .bg-light {
   background: #f6f6f6 !important; }
 
